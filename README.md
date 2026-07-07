@@ -1,5 +1,9 @@
 # ComposePlayground-apk
 
+![Demo](./firstgif1.gif)
+
+
+
 🇮🇹 Italiano (sotto) · 🇬🇧 [English]( #english )
 
 ---
