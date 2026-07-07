@@ -1,6 +1,6 @@
 # ComposePlayground-apk
 
-![Demo](./firstgif1.gif)
+![Demo](./videogif1.gif)
 
 
 
