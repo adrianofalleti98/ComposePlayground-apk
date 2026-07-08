@@ -1,5 +1,7 @@
 # ComposePlayground-apk
 
+Requires Android 13
+
 ![Demo](./videogif1.gif)
 
 
